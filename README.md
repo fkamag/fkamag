@@ -4,7 +4,6 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  Eu moro em Tatuí - SP - Brasil
 *   ✉️  Você pode me contatar pelo email [fabiokamagian@gmail.com](mailto:fabiokamagian@gmail.com)
 *   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkamag)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <a href="https://github.com/fkamag">
