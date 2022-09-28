@@ -14,8 +14,6 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<img height="165em" src="https://camo.githubusercontent.com/4b68ace6858ee9b636068c708aac913a71dcb6426b6bd0860618c15d2ee422bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617061756c696e68616361726c6f732673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fkamag&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-
  *   ### Socials
 <p align="left">
 <a href="https://www.github.com/fkamag" target="_blank" rel="noreferrer"><img
